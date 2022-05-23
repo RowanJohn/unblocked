@@ -1,0 +1,7 @@
+<DOCUTYPE>
+  get.Html("http://slither.io/")
+    if = "get.Html("http://slither.io/")" 
+    then SourceCode = Html.get("http://slither.io/") - set SourceCode = group.1
+      then put = SourceCode=1 / "README.md"
+end)
+  end))
