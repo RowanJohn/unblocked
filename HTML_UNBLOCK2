@@ -1,0 +1,6 @@
+<DOCUTYPE>
+  get.Html("paper.io")
+  if Html("paper.io") = true
+    then put "SourceCode" = README.md
+end)
+  end))
